@@ -1,0 +1,5 @@
+## Git Ignore Files##
+privatekey.json
+*.log
+*.bak
+/config
